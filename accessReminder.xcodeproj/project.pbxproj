@@ -12,6 +12,7 @@
 		51EAB3922236C853008C6F12 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51EAB3902236C853008C6F12 /* Main.storyboard */; };
 		51EAB3942236C855008C6F12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51EAB3932236C855008C6F12 /* Assets.xcassets */; };
 		51EAB3972236C855008C6F12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51EAB3952236C855008C6F12 /* LaunchScreen.storyboard */; };
+		51EAB39F22381E12008C6F12 /* reminderLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51EAB39E22381E12008C6F12 /* reminderLoad.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		51EAB3932236C855008C6F12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51EAB3962236C855008C6F12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		51EAB3982236C855008C6F12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51EAB39E22381E12008C6F12 /* reminderLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reminderLoad.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				51EAB38C2236C853008C6F12 /* AppDelegate.swift */,
 				51EAB38E2236C853008C6F12 /* ViewController.swift */,
 				51EAB3902236C853008C6F12 /* Main.storyboard */,
+				51EAB39E22381E12008C6F12 /* reminderLoad.swift */,
 				51EAB3932236C855008C6F12 /* Assets.xcassets */,
 				51EAB3952236C855008C6F12 /* LaunchScreen.storyboard */,
 				51EAB3982236C855008C6F12 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51EAB39F22381E12008C6F12 /* reminderLoad.swift in Sources */,
 				51EAB38F2236C853008C6F12 /* ViewController.swift in Sources */,
 				51EAB38D2236C853008C6F12 /* AppDelegate.swift in Sources */,
 			);
